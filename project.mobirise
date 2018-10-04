@@ -40,8 +40,9 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 6,
     "versionPublish": "4.8.4",
-    "favicon": "",
-    "noImageResize": ""
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x147.png",
+    "noImageResize": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
